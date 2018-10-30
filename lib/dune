@@ -1,0 +1,5 @@
+(library
+  (name lib)
+  (public_name scrape-rick-and-morty)
+  (libraries lwt cohttp cohttp-lwt-unix lambdasoup)
+  )

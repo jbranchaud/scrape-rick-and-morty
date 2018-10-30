@@ -1,0 +1,41 @@
+{
+  "name": "scrape-rick-and-morty",
+  "version": "0.1.0",
+  "description": "Scrape Data from Rick and Morty Wikipedia",
+  "license": "MIT",
+  "esy": {
+    "build": "dune build -p #{self.name}",
+    "NOTE": "Optional release Section. Customizes result of `esy release`",
+    "release": {
+      "releasedBinaries": [
+        "Hello.exe"
+      ],
+      "deleteFromBinaryRelease": [
+        "*esy_ocaml_*",
+        "ocaml-*"
+      ]
+    }
+  },
+  "dependencies": {
+    "@opam/dune": "*",
+    "@opam/ssl": "*",
+    "@opam/lwt": "*",
+    "@opam/lwt_ssl": "*",
+    "@opam/lwt_ppx": "*",
+    "@opam/cohttp": "*",
+    "@opam/cohttp-lwt-unix": "*",
+    "@opam/lambdasoup": "*",
+    "@esy-ocaml/reason": "*",
+    "ocaml": "~4.6.0"
+  },
+  "resolutions": {
+    "@esy-ocaml/esy-installer": "0.0.1",
+    "@opam/menhir": "20171013",
+    "@opam/re": "1.8.0",
+    "@opam/ssl": "0.5.5"
+  },
+  "devDependencies": {
+    "@esy-ocaml/merlin": "*",
+    "ocaml": "~4.6.0"
+  }
+}

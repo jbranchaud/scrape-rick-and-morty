@@ -1,0 +1,23 @@
+lib: [
+  "/Users/jbranchaud/code/reason-experiments/cohttp-example/_esy/default/store/b/hello_reason-0.1.0-26bebf40/install/default/lib/hello-reason/META" {"META"}
+  "/Users/jbranchaud/code/reason-experiments/cohttp-example/_esy/default/store/b/hello_reason-0.1.0-26bebf40/install/default/lib/hello-reason/hello-reason.dune" {"hello-reason.dune"}
+  "/Users/jbranchaud/code/reason-experiments/cohttp-example/_esy/default/store/b/hello_reason-0.1.0-26bebf40/install/default/lib/hello-reason/index.re" {"index.re"}
+  "/Users/jbranchaud/code/reason-experiments/cohttp-example/_esy/default/store/b/hello_reason-0.1.0-26bebf40/install/default/lib/hello-reason/lib.a" {"lib.a"}
+  "/Users/jbranchaud/code/reason-experiments/cohttp-example/_esy/default/store/b/hello_reason-0.1.0-26bebf40/install/default/lib/hello-reason/lib.cma" {"lib.cma"}
+  "/Users/jbranchaud/code/reason-experiments/cohttp-example/_esy/default/store/b/hello_reason-0.1.0-26bebf40/install/default/lib/hello-reason/lib.cmi" {"lib.cmi"}
+  "/Users/jbranchaud/code/reason-experiments/cohttp-example/_esy/default/store/b/hello_reason-0.1.0-26bebf40/install/default/lib/hello-reason/lib.cmt" {"lib.cmt"}
+  "/Users/jbranchaud/code/reason-experiments/cohttp-example/_esy/default/store/b/hello_reason-0.1.0-26bebf40/install/default/lib/hello-reason/lib.cmx" {"lib.cmx"}
+  "/Users/jbranchaud/code/reason-experiments/cohttp-example/_esy/default/store/b/hello_reason-0.1.0-26bebf40/install/default/lib/hello-reason/lib.cmxa" {"lib.cmxa"}
+  "/Users/jbranchaud/code/reason-experiments/cohttp-example/_esy/default/store/b/hello_reason-0.1.0-26bebf40/install/default/lib/hello-reason/lib.cmxs" {"lib.cmxs"}
+  "/Users/jbranchaud/code/reason-experiments/cohttp-example/_esy/default/store/b/hello_reason-0.1.0-26bebf40/install/default/lib/hello-reason/lib.ml" {"lib.ml"}
+  "/Users/jbranchaud/code/reason-experiments/cohttp-example/_esy/default/store/b/hello_reason-0.1.0-26bebf40/install/default/lib/hello-reason/lib__Index.cmi" {"lib__Index.cmi"}
+  "/Users/jbranchaud/code/reason-experiments/cohttp-example/_esy/default/store/b/hello_reason-0.1.0-26bebf40/install/default/lib/hello-reason/lib__Index.cmt" {"lib__Index.cmt"}
+  "/Users/jbranchaud/code/reason-experiments/cohttp-example/_esy/default/store/b/hello_reason-0.1.0-26bebf40/install/default/lib/hello-reason/lib__Index.cmx" {"lib__Index.cmx"}
+  "/Users/jbranchaud/code/reason-experiments/cohttp-example/_esy/default/store/b/hello_reason-0.1.0-26bebf40/install/default/lib/hello-reason/opam" {"opam"}
+]
+bin: [
+  "/Users/jbranchaud/code/reason-experiments/cohttp-example/_esy/default/store/b/hello_reason-0.1.0-26bebf40/install/default/bin/Index.exe" {"Index.exe"}
+]
+doc: [
+  "/Users/jbranchaud/code/reason-experiments/cohttp-example/_esy/default/store/b/hello_reason-0.1.0-26bebf40/install/default/doc/hello-reason/README.md"
+]

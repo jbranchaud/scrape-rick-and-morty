@@ -1,0 +1,23 @@
+lib: [
+  "/Users/jbranchaud/code/reason-experiments/scrape-rick-and-morty/_esy/default/store/b/scrape_rick_and_morty-0.1.0-4be8da42/install/default/lib/scrape-rick-and-morty/Index.re" {"Index.re"}
+  "/Users/jbranchaud/code/reason-experiments/scrape-rick-and-morty/_esy/default/store/b/scrape_rick_and_morty-0.1.0-4be8da42/install/default/lib/scrape-rick-and-morty/META" {"META"}
+  "/Users/jbranchaud/code/reason-experiments/scrape-rick-and-morty/_esy/default/store/b/scrape_rick_and_morty-0.1.0-4be8da42/install/default/lib/scrape-rick-and-morty/lib.a" {"lib.a"}
+  "/Users/jbranchaud/code/reason-experiments/scrape-rick-and-morty/_esy/default/store/b/scrape_rick_and_morty-0.1.0-4be8da42/install/default/lib/scrape-rick-and-morty/lib.cma" {"lib.cma"}
+  "/Users/jbranchaud/code/reason-experiments/scrape-rick-and-morty/_esy/default/store/b/scrape_rick_and_morty-0.1.0-4be8da42/install/default/lib/scrape-rick-and-morty/lib.cmi" {"lib.cmi"}
+  "/Users/jbranchaud/code/reason-experiments/scrape-rick-and-morty/_esy/default/store/b/scrape_rick_and_morty-0.1.0-4be8da42/install/default/lib/scrape-rick-and-morty/lib.cmt" {"lib.cmt"}
+  "/Users/jbranchaud/code/reason-experiments/scrape-rick-and-morty/_esy/default/store/b/scrape_rick_and_morty-0.1.0-4be8da42/install/default/lib/scrape-rick-and-morty/lib.cmx" {"lib.cmx"}
+  "/Users/jbranchaud/code/reason-experiments/scrape-rick-and-morty/_esy/default/store/b/scrape_rick_and_morty-0.1.0-4be8da42/install/default/lib/scrape-rick-and-morty/lib.cmxa" {"lib.cmxa"}
+  "/Users/jbranchaud/code/reason-experiments/scrape-rick-and-morty/_esy/default/store/b/scrape_rick_and_morty-0.1.0-4be8da42/install/default/lib/scrape-rick-and-morty/lib.cmxs" {"lib.cmxs"}
+  "/Users/jbranchaud/code/reason-experiments/scrape-rick-and-morty/_esy/default/store/b/scrape_rick_and_morty-0.1.0-4be8da42/install/default/lib/scrape-rick-and-morty/lib.ml" {"lib.ml"}
+  "/Users/jbranchaud/code/reason-experiments/scrape-rick-and-morty/_esy/default/store/b/scrape_rick_and_morty-0.1.0-4be8da42/install/default/lib/scrape-rick-and-morty/lib__Index.cmi" {"lib__Index.cmi"}
+  "/Users/jbranchaud/code/reason-experiments/scrape-rick-and-morty/_esy/default/store/b/scrape_rick_and_morty-0.1.0-4be8da42/install/default/lib/scrape-rick-and-morty/lib__Index.cmt" {"lib__Index.cmt"}
+  "/Users/jbranchaud/code/reason-experiments/scrape-rick-and-morty/_esy/default/store/b/scrape_rick_and_morty-0.1.0-4be8da42/install/default/lib/scrape-rick-and-morty/lib__Index.cmx" {"lib__Index.cmx"}
+  "/Users/jbranchaud/code/reason-experiments/scrape-rick-and-morty/_esy/default/store/b/scrape_rick_and_morty-0.1.0-4be8da42/install/default/lib/scrape-rick-and-morty/opam" {"opam"}
+  "/Users/jbranchaud/code/reason-experiments/scrape-rick-and-morty/_esy/default/store/b/scrape_rick_and_morty-0.1.0-4be8da42/install/default/lib/scrape-rick-and-morty/scrape-rick-and-morty.dune" {"scrape-rick-and-morty.dune"}
+]
+bin: [
+  "/Users/jbranchaud/code/reason-experiments/scrape-rick-and-morty/_esy/default/store/b/scrape_rick_and_morty-0.1.0-4be8da42/install/default/bin/Index.exe" {"Index.exe"}
+]
+doc: [
+  "/Users/jbranchaud/code/reason-experiments/scrape-rick-and-morty/_esy/default/store/b/scrape_rick_and_morty-0.1.0-4be8da42/install/default/doc/scrape-rick-and-morty/README.md"
+]
